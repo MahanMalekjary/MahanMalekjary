@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=240046&height=220&section=header&text=SirMalek&fontSize=75&fontColor=FFD700&animation=fadeIn&fontAlignY=35&desc=Mahan%20Malek%20Actually%20%3B&descSize=18&descAlignY=65&descColor=FFFFFF"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=240046&height=220&section=header&text=SirMalek&fontSize=75&fontColor=FFD700&animation=fadeIn&fontAlignY=35"/>
 
 <br>
 
