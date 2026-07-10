@@ -36,7 +36,7 @@
 
 <h3>
 <a href="https://github.com/MahanMalekjary/CopyLeftChatRoom">
-<span style="color:#FFD700;">✦ CopyLeft</span>
+<span style="color:#FFD700;">✦CopyLeft</span>
 </a>
 </h3>
 
@@ -48,7 +48,7 @@
 
 <h3>
 <a href="https://github.com/MahanMalekjary/ShopHub">
-<span style="color:#FFD700;">✦ ShopHub</span>
+<span style="color:#FFD700;">✦ShopHub</span>
 </a>
 </h3>
 
@@ -64,7 +64,7 @@
 
 <h3>
 <a href="https://github.com/MahanMalekjary/NumQuest">
-<span style="color:#FFD700;">✦ NumQuest</span>
+<span style="color:#FFD700;">✦NumQuest</span>
 </a>
 </h3>
 
@@ -76,7 +76,7 @@
 
 <h3>
 <a href="https://github.com/MahanMalekjary/NumScribe">
-<span style="color:#FFD700;">✦ NumScribe</span>
+<span style="color:#FFD700;">✦NumScribe</span>
 </a>
 </h3>
 
