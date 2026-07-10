@@ -1,65 +1,67 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=240046&height=180&section=header&text=SirMalek&fontSize=65&fontColor=FFD700&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=240046&height=220&section=header&text=SirMalek&fontSize=75&fontColor=FFD700&animation=fadeIn&fontAlignY=35"/>
 
 <br>
 
 <h2>
 <span style="color:#FFD700;">✦</span>
  Proudly Fan Of Globalism
-<span style="color:#FFD700;">✦</span>
+ <span style="color:#FFD700;">✦</span>
 </h2>
 
 <br>
 
 <p>
-<i>
-Building ideas, crafting experiences, exploring technology.
-</i>
+<em>
+"Oh my god, I was learning quantum tunneling yesterday, what the HELL am I doing here?"
+</em>
+</p>
+
+<p>
+<span style="color:#FFD700;">
+A curious mind jumping between ideas, technologies and impossible questions.
+</span>
 </p>
 
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=2"/>
 
-<br><br>
+<br>
 
 
-## 🏛️ Featured Projects
+## ✨ Featured Projects
 
 
 <table>
 <tr>
 
-<td align="center" width="50%">
+<td align="center" width="50%" bgcolor="#240046">
 
+<h3>
 <a href="https://github.com/MahanMalekjary/CopyLeftChatRoom">
-
-<h3 style="color:#FFD700;">
-✦ CopyLeftChatroom
+<span style="color:#FFD700;">✦ CopyLeftChatroom</span>
+</a>
 </h3>
 
-</a>
-
 <p>
-Real-time communication project
+Real-time communication platform
 </p>
 
 </td>
 
 
-<td align="center" width="50%">
+<td align="center" width="50%" bgcolor="#240046">
 
+<h3>
 <a href="https://github.com/MahanMalekjary/ShopHub">
-
-<h3 style="color:#FFD700;">
-✦ ShopHub
+<span style="color:#FFD700;">✦ ShopHub</span>
+</a>
 </h3>
 
-</a>
-
 <p>
-Modern shopping experience
+Modern e-commerce experience
 </p>
 
 </td>
@@ -69,35 +71,31 @@ Modern shopping experience
 
 <tr>
 
-<td align="center" width="50%">
+<td align="center" width="50%" bgcolor="#240046">
 
+<h3>
 <a href="https://github.com/MahanMalekjary/NumQuest">
-
-<h3 style="color:#FFD700;">
-✦ NumQuest
+<span style="color:#FFD700;">✦ NumQuest</span>
+</a>
 </h3>
 
-</a>
-
 <p>
-A creative numerical adventure
+Creative numerical adventure
 </p>
 
 </td>
 
 
-<td align="center" width="50%">
+<td align="center" width="50%" bgcolor="#240046">
 
+<h3>
 <a href="https://github.com/MahanMalekjary/NumScribe">
-
-<h3 style="color:#FFD700;">
-✦ NumScribe
+<span style="color:#FFD700;">✦ NumScribe</span>
+</a>
 </h3>
 
-</a>
-
 <p>
-Numbers turned into ideas
+Smart number-based ideas
 </p>
 
 </td>
@@ -114,12 +112,16 @@ Numbers turned into ideas
 <br>
 
 
+<h2>
+<span style="color:#FFD700;">
+⚜ Full-Stack Developer
+</span>
+</h2>
+
 <h3>
 
-Full-Stack Developer  
-<br>
 13 Years Old  
-<br>
+<br><br>
 Learning Assembly
 
 </h3>
@@ -127,11 +129,15 @@ Learning Assembly
 
 <br>
 
-<p>
+
 <a href="https://github.com/MahanMalekjary">
+
 <img src="https://img.shields.io/badge/GitHub-MahanMalekjary-240046?style=for-the-badge&logo=github&logoColor=FFD700"/>
+
 </a>
-</p>
+
+
+<br><br>
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=240046&height=120&section=footer"/>
