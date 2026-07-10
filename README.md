@@ -96,15 +96,15 @@
 
 <h2>
 <span style="color:#FFD700;">
-⚜ Full-Stack Developer
+🥀Full-Stack Developer
 </span>
 </h2>
 
 <h3>
 
-13 Years Old  
+🧒13 Years Old  
 <br><br>
-Learning Assembly
+⏳Learning Assembly
 
 </h3>
 
