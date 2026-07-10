@@ -36,7 +36,7 @@
 
 <h3>
 <a href="https://github.com/MahanMalekjary/CopyLeftChatRoom">
-<span style="color:#FFD700;">✦ NumScribe</span>
+<span style="color:#FFD700;">✦ CopyLeft</span>
 </a>
 </h3>
 
