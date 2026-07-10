@@ -40,9 +40,6 @@
 </a>
 </h3>
 
-<p>
-Real-time communication
-</p>
 
 </td>
 
@@ -55,9 +52,6 @@ Real-time communication
 </a>
 </h3>
 
-<p>
-Modern e-commerce experience
-</p>
 
 </td>
 
@@ -74,9 +68,6 @@ Modern e-commerce experience
 </a>
 </h3>
 
-<p>
-Creative numerical adventure
-</p>
 
 </td>
 
@@ -88,10 +79,6 @@ Creative numerical adventure
 <span style="color:#FFD700;">✦ NumScribe</span>
 </a>
 </h3>
-
-<p>
-Smart number-based ideas
-</p>
 
 </td>
 
