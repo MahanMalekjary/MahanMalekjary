@@ -18,11 +18,6 @@
 </em>
 </p>
 
-<p>
-<span style="color:#FFD700;">
-A curious mind jumping between ideas, technologies and impossible questions.
-</span>
-</p>
 
 <br>
 
@@ -46,7 +41,7 @@ A curious mind jumping between ideas, technologies and impossible questions.
 </h3>
 
 <p>
-Real-time communication platform
+Real-time communication
 </p>
 
 </td>
